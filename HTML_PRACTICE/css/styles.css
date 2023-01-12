@@ -6,8 +6,13 @@ hr {
     width: 2%;
    
   }
+  body{
+   background-color: rgb(255, 205, 229);;
+  }
+  
   img {
-  height: 200px
+  height: 200px;
+  background-color: rgb(255, 145, 0);
  }
  h2{
     color: rgb(34, 224, 145);
@@ -16,3 +21,20 @@ hr {
    color: rgb(160, 48, 220);
    font-style: italic;
 }
+.tourism1{
+   background-color: aqua;
+}
+.tourism2{
+   border-radius: 50%;
+}
+.tourism2{
+   background-color: black;
+}.tourism2{
+   border-radius: 50%;
+}
+
+/*
+.coloring{
+   background-color: black;
+}
+*/
